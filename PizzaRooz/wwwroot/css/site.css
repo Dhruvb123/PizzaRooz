@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.mainText{
+    padding:75px 20px;
+}
+
+.small-text{
+    text-align:right;
+    color:grey;
+}
+
+.makeYourOwnDiv{
+    background: grey;
+    margin:0;
+}
+
+.makeYourOwnText{
+    margin:100px 0 20px 0;
+    color:white;
+}
